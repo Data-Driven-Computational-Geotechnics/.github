@@ -14,19 +14,24 @@ Our research has been published in top-tier journals and conferences. Check out 
 Stay tuned for upcoming seminars, webinars, and workshops. We frequently host events that bring together leading experts from around the globe.
 
 💌 Get in Touch:
-Interested in collaborating, joining our team, or just having a question? Drop us a message at email_address@unimelb.edu.au!
+Interested in collaborating, joining our team, or having a question? Drop us a message at email_address@unimelb.edu.au!
 
 Please find the following index for code repositories created by our team.
 
 # Scoursense
+
 ## "Phase 4"
 This project is about ...
+
 ## "Phase 3"
 This project is about ...
+
 ## "Phase 2"
-This project is about ...
-## "Phase 1"
-This project is about ...
+
+Yousefpour, N., & Correa, O. (2023). Towards an AI-based early warning system for bridge scour. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-27.
+ DOI:[https://doi.org/10.1080/17499518.2023.2222371](https://doi.org/10.1080/17499518.2023.2222371)
+
+ [Codes]()
 
 # Offshore
 
