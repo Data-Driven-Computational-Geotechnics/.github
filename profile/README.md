@@ -21,17 +21,24 @@ Please find the following index for code repositories created by our team.
 # Scoursense
 
 ## "Phase 4"
-This project is about ...
+
+Yousefpour, N., & Wang, B. (2023). A hybrid physics-data driven model for scour: introducing physics-informed neural networks for bridge scour prediction. Preprint. DOI:
+
+[Codes](https://github.com/Data-Driven-Computational-Geotechnics/ScourSensePhase3/tree/main)
 
 ## "Phase 3"
-This project is about ...
+
+Yousefpour, N., & Hashem, T. (2023). Application of Long-Short Term Memory and Convolutional Neural Networks in Real-Time Bridge Scour Forecast. Preprint. DOI:
+
+[Codes](https://github.com/Data-Driven-Computational-Geotechnics/ScourSensePhase3/tree/main)
+
 
 ## "Phase 2"
 
 Yousefpour, N., & Correa, O. (2023). Towards an AI-based early warning system for bridge scour. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-27.
  DOI:[https://doi.org/10.1080/17499518.2023.2222371](https://doi.org/10.1080/17499518.2023.2222371)
 
- [Codes](https://github.com/Data-Driven-Computational-Geotechnics/ScourSensePhase2/tree/main)
+[Codes](https://github.com/Data-Driven-Computational-Geotechnics/ScourSensePhase2/tree/main)
 
 # Offshore
 
