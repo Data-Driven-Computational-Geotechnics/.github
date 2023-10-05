@@ -24,7 +24,7 @@ Please find the following index for code repositories created by our team.
 
 Yousefpour, N., & Wang, B. (2023). A hybrid physics-data driven model for scour: introducing physics-informed neural networks for bridge scour prediction. Preprint. DOI:
 
-[Codes](https://github.com/Data-Driven-Computational-Geotechnics/ScourSensePhase3/tree/main)
+[Codes](https://github.com/Data-Driven-Computational-Geotechnics/ScourSensePhase4/tree/main)
 
 ## "Phase 3"
 
